@@ -6,9 +6,9 @@ output: html_document
 ---
 #Intall
 
-```{r}
-#library(devtools)
-#install_github("lapinskam/SignatureFinder")
+```{r, eval=FALSE}
+library(devtools)
+install_github("lapinskam/SignatureFinder")
 ```
 
 
